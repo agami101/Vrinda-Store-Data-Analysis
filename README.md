@@ -1,2 +1,2 @@
 # Vrinda-Store-Data-Analysis
-![Interactive dashboard](Dashboard.png)
+![Interactive dashboard](Images/Dashboard.png)
